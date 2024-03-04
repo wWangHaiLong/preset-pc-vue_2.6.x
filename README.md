@@ -2,6 +2,7 @@
 
 ## Related Projects
 
+- 原地址为: https://github.com/savokiss/vue-preset-pc
 - [Vue Preset Mobile](https://github.com/savokiss/vue-preset-mobile)
 
 ## Usage
