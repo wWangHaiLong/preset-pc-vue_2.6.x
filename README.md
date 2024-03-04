@@ -7,8 +7,9 @@
 
 ## Usage
 
+- 将改包下载到本地后:
 ```bash
-vue create --preset savokiss/vue-preset-pc <project-name>
+vue create --preset ./perset-pc-vue_2.6.x <project-name>
 ```
 注意修改上面的 `<project-name>` 为要创建的文件夹名称
 
